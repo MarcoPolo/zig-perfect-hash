@@ -1,0 +1,6 @@
+zig-cache
+flake.nix
+flake.lock
+
+#ignoring for now
+.vscode
